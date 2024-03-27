@@ -1,2 +1,2 @@
-# VisAcTh_calibration
-Source code to calibrate the homemade VisAcTh (Visual Acoustic Thermal) sensor
+# Visual Acoustic and Thermal sensor (VisAcTh) calibration
+> Source code to calibrate the homemade VisAcTh (Visual Acoustic Thermal) sensor
