@@ -1,0 +1,1837 @@
+[Error] Zoomed rectangle is zero along X, zoom cancelled
+Fitting with formula: y = 1000*(A0-S0.y)*(A1+A2*x^A3)
+Initial guesses:
+	a0 = 1
+	a1 = 1
+	a2 = 1
+	a3 = 1
+Tolerance = 0.01
+
+Computed values:
+	a0 = 38.8693
+	a1 = 0.000191592
+	a2 = 9.50857e-05
+	a3 = 0.544527
+
+Chi-square: 311.801
+Correlation coefficient: 0.996546
+RMS relative error: 0.880097
+Theil U coefficent: 0.862665
+Fitting with formula: y = 1000*(A0-S0.y)*(A1+A2*x^A3)
+Initial guesses:
+	a0 = 38.8693
+	a1 = 0.000191592
+	a2 = 9.50857e-05
+	a3 = 0.544527
+Tolerance = 0.01
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 60.4905
+	a1 = 8.05266e-05
+	a2 = 4.98687e-05
+	a3 = 0.418772
+
+Chi-square: 0.0638068
+Correlation coefficient: 0.997293
+RMS relative error: 0.0134661
+Theil U coefficent: 0.0123406
+Fitting with formula: y = 1000*(A0-S0.y)*(A1+A2*x^A3)
+Initial guesses:
+	a0 = 60.4905
+	a1 = 8.05266e-05
+	a2 = 4.98687e-05
+	a3 = 0.418772
+Tolerance = 0.01
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 63.6349
+	a1 = 7.40452e-05
+	a2 = 4.59282e-05
+	a3 = 0.418632
+
+Chi-square: 0.0626125
+Correlation coefficient: 0.997346
+RMS relative error: 0.0133387
+Theil U coefficent: 0.0122246
+Fitting with formula: y = 1000*(A0-S0.y)*(A1+A2*x^A3)
+Initial guesses:
+	a0 = 63.6349
+	a1 = 7.40452e-05
+	a2 = 4.59282e-05
+	a3 = 0.418632
+Tolerance = 0.01
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 69.687
+	a1 = 6.41204e-05
+	a2 = 3.98708e-05
+	a3 = 0.418426
+
+Chi-square: 0.060771
+Correlation coefficient: 0.997425
+RMS relative error: 0.0131438
+Theil U coefficent: 0.0120435
+Fitting with formula: y = 1000*(A0-S0.y)*(A1+A2*x^A3)
+Initial guesses:
+	a0 = 69.687
+	a1 = 6.41204e-05
+	a2 = 3.98708e-05
+	a3 = 0.418426
+Tolerance = 0.01
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 73.4008
+	a1 = 5.92426e-05
+	a2 = 3.68826e-05
+	a3 = 0.418324
+
+Chi-square: 0.0599506
+Correlation coefficient: 0.997463
+RMS relative error: 0.0130531
+Theil U coefficent: 0.0119619
+Fitting with formula: y = 1000*(A0-S0.y)*(A1+A2*x^A3)
+Initial guesses:
+	a0 = 73.4008
+	a1 = 5.92426e-05
+	a2 = 3.68826e-05
+	a3 = 0.418324
+Tolerance = 0.01
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 76.0232
+	a1 = 5.62611e-05
+	a2 = 3.50518e-05
+	a3 = 0.418265
+
+Chi-square: 0.0591832
+Correlation coefficient: 0.997498
+RMS relative error: 0.0129671
+Theil U coefficent: 0.0118851
+Fitting with formula: y = 1000*(A0-S0.y)*(A1+A2*x^A3)
+Initial guesses:
+	a0 = 76.0232
+	a1 = 5.62611e-05
+	a2 = 3.50518e-05
+	a3 = 0.418265
+Tolerance = 0.01
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 76.0232
+	a1 = 5.62611e-05
+	a2 = 3.50518e-05
+	a3 = 0.418265
+
+Chi-square: 0.0595152
+Correlation coefficient: 0.997501
+RMS relative error: 0.0129869
+Theil U coefficent: 0.0119184
+Fitting with formula: y = 1000*(A0-S0.y)*(A1+A2*x^A3)
+Initial guesses:
+	a0 = 76.0232
+	a1 = 5.62611e-05
+	a2 = 3.50518e-05
+	a3 = 0.418265
+Tolerance = 0.01
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 76.0232
+	a1 = 5.62611e-05
+	a2 = 3.50518e-05
+	a3 = 0.418265
+
+Chi-square: 0.0595152
+Correlation coefficient: 0.997501
+RMS relative error: 0.0129869
+Theil U coefficent: 0.0119184
+Fitting with formula: y = 1000*(A0-S0.y)*(A1+A2*x^A3)
+Initial guesses:
+	a0 = 76.0232
+	a1 = 5.62611e-05
+	a2 = 3.50518e-05
+	a3 = 0.418265
+Tolerance = 0.01
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 76.0232
+	a1 = 5.62611e-05
+	a2 = 3.50518e-05
+	a3 = 0.418265
+
+Chi-square: 0.0595152
+Correlation coefficient: 0.997501
+RMS relative error: 0.0129869
+Theil U coefficent: 0.0119184
+Fitting with formula: y = 1000*(A0-S0.y)*(A1+A2*x^A3)
+Initial guesses:
+	a0 = 76.0232
+	a1 = 5.62611e-05
+	a2 = 3.50518e-05
+	a3 = 0.418265
+Tolerance = 0.01
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 76.0232
+	a1 = 5.62611e-05
+	a2 = 3.50518e-05
+	a3 = 0.418265
+
+Chi-square: 0.0595152
+Correlation coefficient: 0.997501
+RMS relative error: 0.0129869
+Theil U coefficent: 0.0119184
+Fitting with formula: y = 1000*(A0-S0.y)*(A1+A2*x^A3)
+Initial guesses:
+	a0 = 76.0232
+	a1 = 5.62611e-05
+	a2 = 3.50518e-05
+	a3 = 0.418265
+Tolerance = 0.01
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 76.0232
+	a1 = 5.62611e-05
+	a2 = 3.50518e-05
+	a3 = 0.418265
+
+Chi-square: 0.0595152
+Correlation coefficient: 0.997501
+RMS relative error: 0.0129869
+Theil U coefficent: 0.0119184
+Fitting with formula: y = 1000*(A0-S0.y)*(A1+A2*x^A3)
+Initial guesses:
+	a0 = 76.0232
+	a1 = 5.62611e-05
+	a2 = 3.50518e-05
+	a3 = 0.418265
+Tolerance = 0.01
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 76.0232
+	a1 = 5.62611e-05
+	a2 = 3.50518e-05
+	a3 = 0.418265
+
+Chi-square: 0.0595152
+Correlation coefficient: 0.997501
+RMS relative error: 0.0129869
+Theil U coefficent: 0.0119184
+Fitting with formula: y = 1000*(A0-S0.y)*(A1+A2*x^A3)
+Initial guesses:
+	a0 = 76.0232
+	a1 = 5.62611e-05
+	a2 = 3.50518e-05
+	a3 = 0.418265
+Tolerance = 0.01
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 76.0232
+	a1 = 5.62611e-05
+	a2 = 3.50518e-05
+	a3 = 0.418265
+
+Chi-square: 0.0595152
+Correlation coefficient: 0.997501
+RMS relative error: 0.0129869
+Theil U coefficent: 0.0119184
+Fitting with formula: y = 1000*(A0-S0.y)*(A1+A2*x^A3)
+Initial guesses:
+	a0 = 76.0232
+	a1 = 5.62611e-05
+	a2 = 3.50518e-05
+	a3 = 0.418265
+Tolerance = 0.01
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 76.0232
+	a1 = 5.62611e-05
+	a2 = 3.50518e-05
+	a3 = 0.418265
+
+Chi-square: 0.0595152
+Correlation coefficient: 0.997501
+RMS relative error: 0.0129869
+Theil U coefficent: 0.0119184
+Fitting with formula: y = 1000*(A0-S0.y)*(A1+A2*x^A3)
+Initial guesses:
+	a0 = 76.0232
+	a1 = 5.62611e-05
+	a2 = 3.50518e-05
+	a3 = 0.418265
+Tolerance = 0.01
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 76.0232
+	a1 = 5.62611e-05
+	a2 = 3.50518e-05
+	a3 = 0.418265
+
+Chi-square: 0.0595152
+Correlation coefficient: 0.997501
+RMS relative error: 0.0129869
+Theil U coefficent: 0.0119184
+Fitting with formula: y = 1000*(A0-S0.y)*(A1+A2*x^A3)
+Initial guesses:
+	a0 = 76.0232
+	a1 = 5.62611e-05
+	a2 = 3.50518e-05
+	a3 = 0.418265
+Tolerance = 0.01
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 76.0232
+	a1 = 5.62611e-05
+	a2 = 3.50518e-05
+	a3 = 0.418265
+
+Chi-square: 0.0595152
+Correlation coefficient: 0.997501
+RMS relative error: 0.0129869
+Theil U coefficent: 0.0119184
+Fitting with formula: y = 1000*(A0-S0.y)*(A1+A2*x^A3)
+Initial guesses:
+	a0 = 76.0232
+	a1 = 5.62611e-05
+	a2 = 3.50518e-05
+	a3 = 0.418265
+Tolerance = 0.01
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 76.0232
+	a1 = 5.62611e-05
+	a2 = 3.50518e-05
+	a3 = 0.418265
+
+Chi-square: 0.0595152
+Correlation coefficient: 0.997501
+RMS relative error: 0.0129869
+Theil U coefficent: 0.0119184
+Fitting with formula: y = 1000*(A0-S0.y)*(A1+A2*x^A3)
+Initial guesses:
+	a0 = 76.0232
+	a1 = 5.62611e-05
+	a2 = 3.50518e-05
+	a3 = 0.418265
+Tolerance = 0.01
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 76.0232
+	a1 = 5.62611e-05
+	a2 = 3.50518e-05
+	a3 = 0.418265
+
+Chi-square: 0.0595152
+Correlation coefficient: 0.997501
+RMS relative error: 0.0129869
+Theil U coefficent: 0.0119184
+Fitting with formula: y = 1000*(A0-S0.y)*(A1+A2*x^A3)
+Initial guesses:
+	a0 = 76.0232
+	a1 = 5.62611e-05
+	a2 = 3.50518e-05
+	a3 = 0.418265
+Tolerance = 0.01
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 76.0232
+	a1 = 5.62611e-05
+	a2 = 3.50518e-05
+	a3 = 0.418265
+
+Chi-square: 0.0595152
+Correlation coefficient: 0.997501
+RMS relative error: 0.0129869
+Theil U coefficent: 0.0119184
+Fitting with formula: y = 1000*(A0-S0.y)*(A1+A2*x^A3)
+Initial guesses:
+	a0 = 76.0232
+	a1 = 5.62611e-05
+	a2 = 3.50518e-05
+	a3 = 0.418265
+Tolerance = 0.01
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 76.0232
+	a1 = 5.62611e-05
+	a2 = 3.50518e-05
+	a3 = 0.418265
+
+Chi-square: 0.0595152
+Correlation coefficient: 0.997501
+RMS relative error: 0.0129869
+Theil U coefficent: 0.0119184
+Fitting with formula: y = 1000*(A0-S0.y)*(A1+A2*x^A3)
+Initial guesses:
+	a0 = 76.0232
+	a1 = 5.62611e-05
+	a2 = 3.50518e-05
+	a3 = 0.418265
+Tolerance = 0.01
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 76.0232
+	a1 = 5.62611e-05
+	a2 = 3.50518e-05
+	a3 = 0.418265
+
+Chi-square: 0.0595152
+Correlation coefficient: 0.997501
+RMS relative error: 0.0129869
+Theil U coefficent: 0.0119184
+Fitting with formula: y = 1000*(A0-S0.y)*(A1+A2*x^A3)
+Initial guesses:
+	a0 = 76.0232
+	a1 = 5.62611e-05
+	a2 = 3.50518e-05
+	a3 = 0.418265
+Tolerance = 0.01
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 76.0232
+	a1 = 5.62611e-05
+	a2 = 3.50518e-05
+	a3 = 0.418265
+
+Chi-square: 0.0595152
+Correlation coefficient: 0.997501
+RMS relative error: 0.0129869
+Theil U coefficent: 0.0119184
+Fitting with formula: y = 1000*(A0-S0.y)*(A1+A2*x^A3)
+Initial guesses:
+	a0 = 76.0232
+	a1 = 5.62611e-05
+	a2 = 3.50518e-05
+	a3 = 0.418265
+Tolerance = 0.01
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 76.0232
+	a1 = 5.62611e-05
+	a2 = 3.50518e-05
+	a3 = 0.418265
+
+Chi-square: 0.0595152
+Correlation coefficient: 0.997501
+RMS relative error: 0.0129869
+Theil U coefficent: 0.0119184
+Fitting with formula: y = 1000*(A0-S0.y)*(A1+A2*x^A3)
+Initial guesses:
+	a0 = 76.0232
+	a1 = 5.62611e-05
+	a2 = 3.50518e-05
+	a3 = 0.418265
+Tolerance = 0.01
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 76.0232
+	a1 = 5.62611e-05
+	a2 = 3.50518e-05
+	a3 = 0.418265
+
+Chi-square: 0.0595152
+Correlation coefficient: 0.997501
+RMS relative error: 0.0129869
+Theil U coefficent: 0.0119184
+Fitting with formula: y = 1000*(A0-S0.y)*(A1+A2*x^A3)
+Initial guesses:
+	a0 = 76.0232
+	a1 = 5.62611e-05
+	a2 = 3.50518e-05
+	a3 = 0.418265
+Tolerance = 0.01
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 76.0232
+	a1 = 5.62611e-05
+	a2 = 3.50518e-05
+	a3 = 0.418265
+
+Chi-square: 0.0595152
+Correlation coefficient: 0.997501
+RMS relative error: 0.0129869
+Theil U coefficent: 0.0119184
+Fitting with formula: y = 1000*(A0-S0.y)*(A1+A2*x^A3)
+Initial guesses:
+	a0 = 76.0232
+	a1 = 5.62611e-05
+	a2 = 3.50518e-05
+	a3 = 0.418265
+Tolerance = 0.01
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 76.0232
+	a1 = 5.62611e-05
+	a2 = 3.50518e-05
+	a3 = 0.418265
+
+Chi-square: 0.0595152
+Correlation coefficient: 0.997501
+RMS relative error: 0.0129869
+Theil U coefficent: 0.0119184
+Fitting with formula: y = 1000*(A0-S0.y)*(A1+A2*x^A3)
+Initial guesses:
+	a0 = 76.0232
+	a1 = 5.62611e-05
+	a2 = 3.50518e-05
+	a3 = 0.418265
+Tolerance = 0.01
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 76.0232
+	a1 = 5.62611e-05
+	a2 = 3.50518e-05
+	a3 = 0.418265
+
+Chi-square: 0.0595152
+Correlation coefficient: 0.997501
+RMS relative error: 0.0129869
+Theil U coefficent: 0.0119184
+Fitting with formula: y = 1000*(A0-S0.y)*(A1+A2*x^A3)
+Initial guesses:
+	a0 = 76.0232
+	a1 = 5.62611e-05
+	a2 = 3.50518e-05
+	a3 = 0.418265
+Tolerance = 0.01
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 76.0232
+	a1 = 5.62611e-05
+	a2 = 3.50518e-05
+	a3 = 0.418265
+
+Chi-square: 0.0595152
+Correlation coefficient: 0.997501
+RMS relative error: 0.0129869
+Theil U coefficent: 0.0119184
+Fitting with formula: y = 1000*(A0-S0.y)*(A1+A2*x^A3)
+Initial guesses:
+	a0 = 76.0232
+	a1 = 5.62611e-05
+	a2 = 3.50518e-05
+	a3 = 0.418265
+Tolerance = 0.01
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 76.0232
+	a1 = 5.62611e-05
+	a2 = 3.50518e-05
+	a3 = 0.418265
+
+Chi-square: 0.0595152
+Correlation coefficient: 0.997501
+RMS relative error: 0.0129869
+Theil U coefficent: 0.0119184
+Fitting with formula: y = 1000*(A0-S0.y)*(A1+A2*x^A3)
+Initial guesses:
+	a0 = 76.0232
+	a1 = 5.62611e-05
+	a2 = 3.50518e-05
+	a3 = 0.418265
+Tolerance = 0.01
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 76.0232
+	a1 = 5.62611e-05
+	a2 = 3.50518e-05
+	a3 = 0.418265
+
+Chi-square: 0.0595152
+Correlation coefficient: 0.997501
+RMS relative error: 0.0129869
+Theil U coefficent: 0.0119184
+Fitting with formula: y = 1000*(A0-S0.y)*(A1+A2*x^A3)
+Initial guesses:
+	a0 = 76.0232
+	a1 = 5.62611e-05
+	a2 = 3.50518e-05
+	a3 = 0.418265
+Tolerance = 0.01
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 76.0232
+	a1 = 5.62611e-05
+	a2 = 3.50518e-05
+	a3 = 0.418265
+
+Chi-square: 0.0595152
+Correlation coefficient: 0.997501
+RMS relative error: 0.0129869
+Theil U coefficent: 0.0119184
+Fitting with formula: y = 1000*(A0-S0.y)*(A1+A2*x^A3)
+Initial guesses:
+	a0 = 76.0232
+	a1 = 5.62611e-05
+	a2 = 3.50518e-05
+	a3 = 0.418265
+Tolerance = 0.01
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 76.0232
+	a1 = 5.62611e-05
+	a2 = 3.50518e-05
+	a3 = 0.418265
+
+Chi-square: 0.0595152
+Correlation coefficient: 0.997501
+RMS relative error: 0.0129869
+Theil U coefficent: 0.0119184
+Fitting with formula: y = 1000*(A0-S0.y)*(A1+A2*x^A3)
+Initial guesses:
+	a0 = 76.0232
+	a1 = 5.62611e-05
+	a2 = 3.50518e-05
+	a3 = 0.418265
+Tolerance = 0.01
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 76.0232
+	a1 = 5.62611e-05
+	a2 = 3.50518e-05
+	a3 = 0.418265
+
+Chi-square: 0.0595152
+Correlation coefficient: 0.997501
+RMS relative error: 0.0129869
+Theil U coefficent: 0.0119184
+Fitting with formula: y = 1000*(A0-S0.y)*(A1+A2*x^A3)
+Initial guesses:
+	a0 = 76.0232
+	a1 = 5.62611e-05
+	a2 = 3.50518e-05
+	a3 = 0.418265
+Tolerance = 0.01
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 76.0232
+	a1 = 5.62611e-05
+	a2 = 3.50518e-05
+	a3 = 0.418265
+
+Chi-square: 0.0595152
+Correlation coefficient: 0.997501
+RMS relative error: 0.0129869
+Theil U coefficent: 0.0119184
+Fitting with formula: y = 1000*(A0-S0.y)*(A1+A2*x^A3)
+Initial guesses:
+	a0 = 76.0232
+	a1 = 5.62611e-05
+	a2 = 3.50518e-05
+	a3 = 0.418265
+Tolerance = 0.01
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 76.0232
+	a1 = 5.62611e-05
+	a2 = 3.50518e-05
+	a3 = 0.418265
+
+Chi-square: 0.0595152
+Correlation coefficient: 0.997501
+RMS relative error: 0.0129869
+Theil U coefficent: 0.0119184
+Fitting with formula: y = 1000*(A0-S0.y)*(A1+A2*x^A3)
+Initial guesses:
+	a0 = 76.0232
+	a1 = 5.62611e-05
+	a2 = 3.50518e-05
+	a3 = 0.418265
+Tolerance = 0.01
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 76.0232
+	a1 = 5.62611e-05
+	a2 = 3.50518e-05
+	a3 = 0.418265
+
+Chi-square: 0.0595152
+Correlation coefficient: 0.997501
+RMS relative error: 0.0129869
+Theil U coefficent: 0.0119184
+Fitting with formula: y = 1000*(A0-S0.y)*(A1+A2*x^A3)
+Initial guesses:
+	a0 = 76.0232
+	a1 = 5.62611e-05
+	a2 = 3.50518e-05
+	a3 = 0.418265
+Tolerance = 0.01
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 76.0232
+	a1 = 5.62611e-05
+	a2 = 3.50518e-05
+	a3 = 0.418265
+
+Chi-square: 0.0595152
+Correlation coefficient: 0.997501
+RMS relative error: 0.0129869
+Theil U coefficent: 0.0119184
+Fitting with formula: y = 1000*(A0-S0.y)*(A1+A2*x^A3)
+Initial guesses:
+	a0 = 76.0232
+	a1 = 5.62611e-05
+	a2 = 3.50518e-05
+	a3 = 0.418265
+Tolerance = 0.01
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 76.0232
+	a1 = 5.62611e-05
+	a2 = 3.50518e-05
+	a3 = 0.418265
+
+Chi-square: 0.0595152
+Correlation coefficient: 0.997501
+RMS relative error: 0.0129869
+Theil U coefficent: 0.0119184
+Fitting with formula: y = 1000*(A0-S0.y)*(A1+A2*x^A3)
+Initial guesses:
+	a0 = 76.0232
+	a1 = 5.62611e-05
+	a2 = 3.50518e-05
+	a3 = 0.418265
+Tolerance = 0.01
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 76.0232
+	a1 = 5.62611e-05
+	a2 = 3.50518e-05
+	a3 = 0.418265
+
+Chi-square: 0.0595152
+Correlation coefficient: 0.997501
+RMS relative error: 0.0129869
+Theil U coefficent: 0.0119184
+Fitting with formula: y = 1000*(A0-S0.y)*(A1+A2*x^A3)
+Initial guesses:
+	a0 = 76.0232
+	a1 = 5.62611e-05
+	a2 = 3.50518e-05
+	a3 = 0.418265
+Tolerance = 0.01
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 76.0232
+	a1 = 5.62611e-05
+	a2 = 3.50518e-05
+	a3 = 0.418265
+
+Chi-square: 0.0595152
+Correlation coefficient: 0.997501
+RMS relative error: 0.0129869
+Theil U coefficent: 0.0119184
+Fitting with formula: y = 1000*(A0-S0.y)*(A1+A2*x^A3)
+Initial guesses:
+	a0 = 76.0232
+	a1 = 5.62611e-05
+	a2 = 3.50518e-05
+	a3 = 0.418265
+Tolerance = 0.01
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 76.0232
+	a1 = 5.62611e-05
+	a2 = 3.50518e-05
+	a3 = 0.418265
+
+Chi-square: 0.0595152
+Correlation coefficient: 0.997501
+RMS relative error: 0.0129869
+Theil U coefficent: 0.0119184
+Fitting with formula: y = 1000*(A0-S0.y)*(A1+A2*x^A3)
+Initial guesses:
+	a0 = 76.0232
+	a1 = 5.62611e-05
+	a2 = 3.50518e-05
+	a3 = 0.418265
+Tolerance = 0.01
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 76.0232
+	a1 = 5.62611e-05
+	a2 = 3.50518e-05
+	a3 = 0.418265
+
+Chi-square: 0.0595152
+Correlation coefficient: 0.997501
+RMS relative error: 0.0129869
+Theil U coefficent: 0.0119184
+Fitting with formula: y = 1000*(A0-S0.y)*(A1+A2*x^A3)
+Initial guesses:
+	a0 = 1
+	a1 = 5.62611e-05
+	a2 = 3.50518e-05
+	a3 = 0.418265
+Tolerance = 0.01
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 5.01071
+	a1 = -0.000148463
+	a2 = -9.73203e-05
+	a3 = 0.414308
+
+Chi-square: 0.0406806
+Correlation coefficient: 0.998270
+RMS relative error: 0.0107132
+Theil U coefficent: 0.00985366
+Fitting with formula: y = 1000*(A0-S0.y)*(A1+A2*x^A3)
+Initial guesses:
+	a0 = 5.01071
+	a1 = -0.000148463
+	a2 = -9.73203e-05
+	a3 = 0.414308
+Tolerance = 0.01
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 5.01341
+	a1 = -0.000148483
+	a2 = -9.73376e-05
+	a3 = 0.414293
+
+Chi-square: 0.0406806
+Correlation coefficient: 0.998270
+RMS relative error: 0.0107142
+Theil U coefficent: 0.00985365
+Fitting with formula: y = 1000*(A0-S0.y)*(A1+A2*x^A3)
+Initial guesses:
+	a0 = 5.01341
+	a1 = -0.000148483
+	a2 = -9.73376e-05
+	a3 = 0.414293
+Tolerance = 0.01
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 5.01323
+	a1 = -0.000148481
+	a2 = -9.73366e-05
+	a3 = 0.414294
+
+Chi-square: 0.0406806
+Correlation coefficient: 0.998270
+RMS relative error: 0.0107141
+Theil U coefficent: 0.00985365
+Fitting with formula: y = 1000*(A0-S0.y)*(A1+A2*x^A3)
+Initial guesses:
+	a0 = 5.01323
+	a1 = -0.000148481
+	a2 = -9.73366e-05
+	a3 = 0.414294
+Tolerance = 0.01
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 5.0133
+	a1 = -0.000148482
+	a2 = -9.7337e-05
+	a3 = 0.414294
+
+Chi-square: 0.0406806
+Correlation coefficient: 0.998270
+RMS relative error: 0.0107141
+Theil U coefficent: 0.00985365
+Fitting with formula: y = 1000*(A0-S0.y)*(A1+A2*x^A3)
+Initial guesses:
+	a0 = 5.0133
+	a1 = -0.000148482
+	a2 = -9.7337e-05
+	a3 = 0.414294
+Tolerance = 0.01
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 5.01339
+	a1 = -0.000148482
+	a2 = -9.73374e-05
+	a3 = 0.414294
+
+Chi-square: 0.0406806
+Correlation coefficient: 0.998270
+RMS relative error: 0.0107141
+Theil U coefficent: 0.00985365
+Fitting with formula: y = 1000*(A0-S0.y)*(A1+A2*x^A3)
+Initial guesses:
+	a0 = 5.01339
+	a1 = -0.000148482
+	a2 = -9.73374e-05
+	a3 = 0.414294
+Tolerance = 0.01
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 5.01343
+	a1 = -0.000148483
+	a2 = -9.73376e-05
+	a3 = 0.414294
+
+Chi-square: 0.0406806
+Correlation coefficient: 0.998270
+RMS relative error: 0.0107141
+Theil U coefficent: 0.00985365
+Fitting with formula: y = 1000*(A0-S0.y)*(A1+A2*x^A3)
+Initial guesses:
+	a0 = 5.01343
+	a1 = -0.000148483
+	a2 = -9.73376e-05
+	a3 = 0.414294
+Tolerance = 0.01
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 5.01344
+	a1 = -0.000148483
+	a2 = -9.73377e-05
+	a3 = 0.414294
+
+Chi-square: 0.0406806
+Correlation coefficient: 0.998270
+RMS relative error: 0.0107141
+Theil U coefficent: 0.00985365
+Fitting with formula: y = 1000*(A0-S0.y)*(A1+A2*x^A3)
+Initial guesses:
+	a0 = 5.01344
+	a1 = -0.000148483
+	a2 = -9.73377e-05
+	a3 = 0.414294
+Tolerance = 0.01
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 5.01342
+	a1 = -0.000148483
+	a2 = -9.73376e-05
+	a3 = 0.414294
+
+Chi-square: 0.0406806
+Correlation coefficient: 0.998270
+RMS relative error: 0.0107141
+Theil U coefficent: 0.00985365
+Fitting with formula: y = 1000*(A0-S0.y)*(A1+A2*x^A3)
+Initial guesses:
+	a0 = 5.01342
+	a1 = -0.000148483
+	a2 = -9.73376e-05
+	a3 = 0.414294
+Tolerance = 0.01
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 5.01337
+	a1 = -0.000148482
+	a2 = -9.73373e-05
+	a3 = 0.414294
+
+Chi-square: 0.0406806
+Correlation coefficient: 0.998270
+RMS relative error: 0.0107141
+Theil U coefficent: 0.00985365
+Fitting with formula: y = 1000*(A0-S0.y)*(A1+A2*x^A3)
+Initial guesses:
+	a0 = 5.01337
+	a1 = -0.000148482
+	a2 = -9.73373e-05
+	a3 = 0.414294
+Tolerance = 0.01
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 5.01346
+	a1 = -0.000148483
+	a2 = -9.73378e-05
+	a3 = 0.414294
+
+Chi-square: 0.0406806
+Correlation coefficient: 0.998270
+RMS relative error: 0.0107141
+Theil U coefficent: 0.00985365
+Fitting with formula: y = 1000*(A0-S0.y)*(A1+A2*x^A3)
+Initial guesses:
+	a0 = 5.01346
+	a1 = -0.000148483
+	a2 = -9.73378e-05
+	a3 = 0.414294
+Tolerance = 0.01
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 5.01342
+	a1 = -0.000148483
+	a2 = -9.73376e-05
+	a3 = 0.414294
+
+Chi-square: 0.0406806
+Correlation coefficient: 0.998270
+RMS relative error: 0.0107141
+Theil U coefficent: 0.00985365
+Fitting with formula: y = 1000*(A0-S0.y)*(A1+A2*x^A3)
+Initial guesses:
+	a0 = 5.01342
+	a1 = -0.000148483
+	a2 = -9.73376e-05
+	a3 = 0.414294
+Tolerance = 0.01
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 5.01337
+	a1 = -0.000148482
+	a2 = -9.73373e-05
+	a3 = 0.414294
+
+Chi-square: 0.0406806
+Correlation coefficient: 0.998270
+RMS relative error: 0.0107141
+Theil U coefficent: 0.00985365
+Fitting with formula: y = 1000*(A0-S0.y)*(A1+A2*x^A3)
+Initial guesses:
+	a0 = 5.01337
+	a1 = -0.000148482
+	a2 = -9.73373e-05
+	a3 = 0.414294
+Tolerance = 0.01
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 5.01346
+	a1 = -0.000148483
+	a2 = -9.73378e-05
+	a3 = 0.414294
+
+Chi-square: 0.0406806
+Correlation coefficient: 0.998270
+RMS relative error: 0.0107141
+Theil U coefficent: 0.00985365
+Fitting with formula: y = 1000*(A0-S0.y)*(A1+A2*x^A3)
+Initial guesses:
+	a0 = 5.01346
+	a1 = -0.000148483
+	a2 = -9.73378e-05
+	a3 = 0.414294
+Tolerance = 0.01
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 5.01342
+	a1 = -0.000148483
+	a2 = -9.73376e-05
+	a3 = 0.414294
+
+Chi-square: 0.0406806
+Correlation coefficient: 0.998270
+RMS relative error: 0.0107141
+Theil U coefficent: 0.00985365
+Fitting with formula: y = 1000*(A0-S0.y)*(A1+A2*x^A3)
+Initial guesses:
+	a0 = 5.01342
+	a1 = -0.000148483
+	a2 = -9.73376e-05
+	a3 = 0.414294
+Tolerance = 0.01
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 5.01337
+	a1 = -0.000148482
+	a2 = -9.73373e-05
+	a3 = 0.414294
+
+Chi-square: 0.0406806
+Correlation coefficient: 0.998270
+RMS relative error: 0.0107141
+Theil U coefficent: 0.00985365
+Fitting with formula: y = 1000*(A0-S0.y)*(A1+A2*x^A3)
+Initial guesses:
+	a0 = 5.01337
+	a1 = -0.000148482
+	a2 = -9.73373e-05
+	a3 = 0.414294
+Tolerance = 0.01
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 5.01346
+	a1 = -0.000148483
+	a2 = -9.73378e-05
+	a3 = 0.414294
+
+Chi-square: 0.0406806
+Correlation coefficient: 0.998270
+RMS relative error: 0.0107141
+Theil U coefficent: 0.00985365
+Fitting with formula: y = 1000*(A0-S0.y)*(A1+A2*x^A3)
+Initial guesses:
+	a0 = 5.01346
+	a1 = -0.000148483
+	a2 = -9.73378e-05
+	a3 = 0.414294
+Tolerance = 0.01
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 5.01342
+	a1 = -0.000148483
+	a2 = -9.73376e-05
+	a3 = 0.414294
+
+Chi-square: 0.0406806
+Correlation coefficient: 0.998270
+RMS relative error: 0.0107141
+Theil U coefficent: 0.00985365
+Fitting with formula: y = 1000*(A0-S0.y)*(A1+A2*x^A3)
+Initial guesses:
+	a0 = 5.01342
+	a1 = -0.000148483
+	a2 = -9.73376e-05
+	a3 = 0.414294
+Tolerance = 0.01
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 5.01337
+	a1 = -0.000148482
+	a2 = -9.73373e-05
+	a3 = 0.414294
+
+Chi-square: 0.0406806
+Correlation coefficient: 0.998270
+RMS relative error: 0.0107141
+Theil U coefficent: 0.00985365
+Fitting with formula: y = 1000*(A0-S0.y)*(A1+A2*x^A3)
+Initial guesses:
+	a0 = 5.01337
+	a1 = -0.000148482
+	a2 = -9.73373e-05
+	a3 = 0.414294
+Tolerance = 0.01
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 5.01346
+	a1 = -0.000148483
+	a2 = -9.73378e-05
+	a3 = 0.414294
+
+Chi-square: 0.0406806
+Correlation coefficient: 0.998270
+RMS relative error: 0.0107141
+Theil U coefficent: 0.00985365
+Fitting with formula: y = 1000*(A0-S0.y)*(A1+A2*x^A3)
+Initial guesses:
+	a0 = 5.01346
+	a1 = -0.000148483
+	a2 = -9.73378e-05
+	a3 = 0.414294
+Tolerance = 0.01
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 5.01342
+	a1 = -0.000148483
+	a2 = -9.73376e-05
+	a3 = 0.414294
+
+Chi-square: 0.0406806
+Correlation coefficient: 0.998270
+RMS relative error: 0.0107141
+Theil U coefficent: 0.00985365
+Fitting with formula: y = 1000*(A0-S0.y)*(A1+A2*x^A3)
+Initial guesses:
+	a0 = 5.01342
+	a1 = -0.000148483
+	a2 = -9.73376e-05
+	a3 = 0.414294
+Tolerance = 0.01
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 5.01337
+	a1 = -0.000148482
+	a2 = -9.73373e-05
+	a3 = 0.414294
+
+Chi-square: 0.0406806
+Correlation coefficient: 0.998270
+RMS relative error: 0.0107141
+Theil U coefficent: 0.00985365
+Fitting with formula: y = 1000*(A0-S0.y)*(A1+A2*x^A3)
+Initial guesses:
+	a0 = 5.01337
+	a1 = -0.000148482
+	a2 = -9.73373e-05
+	a3 = 0.414294
+Tolerance = 0.01
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 5.01346
+	a1 = -0.000148483
+	a2 = -9.73378e-05
+	a3 = 0.414294
+
+Chi-square: 0.0406806
+Correlation coefficient: 0.998270
+RMS relative error: 0.0107141
+Theil U coefficent: 0.00985365
+Fitting with formula: y = 1000*(A0-S0.y)*(A1+A2*x^A3)
+Initial guesses:
+	a0 = 5.01346
+	a1 = -0.000148483
+	a2 = -9.73378e-05
+	a3 = 0.414294
+Tolerance = 0.01
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 5.01342
+	a1 = -0.000148483
+	a2 = -9.73376e-05
+	a3 = 0.414294
+
+Chi-square: 0.0406806
+Correlation coefficient: 0.998270
+RMS relative error: 0.0107141
+Theil U coefficent: 0.00985365
+Fitting with formula: y = 1000*(A0-S0.y)*(A1+A2*x^A3)
+Initial guesses:
+	a0 = 5.01342
+	a1 = -0.000148483
+	a2 = -9.73376e-05
+	a3 = 0.414294
+Tolerance = 0.01
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 5.01337
+	a1 = -0.000148482
+	a2 = -9.73373e-05
+	a3 = 0.414294
+
+Chi-square: 0.0406806
+Correlation coefficient: 0.998270
+RMS relative error: 0.0107141
+Theil U coefficent: 0.00985365
+Fitting with formula: y = 1000*(A0-S0.y)*(A1+A2*x^A3)
+Initial guesses:
+	a0 = 5.01337
+	a1 = -0.000148482
+	a2 = -9.73373e-05
+	a3 = 0.414294
+Tolerance = 0.01
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 5.01346
+	a1 = -0.000148483
+	a2 = -9.73378e-05
+	a3 = 0.414294
+
+Chi-square: 0.0406806
+Correlation coefficient: 0.998270
+RMS relative error: 0.0107141
+Theil U coefficent: 0.00985365
+Fitting with formula: y = 1000*(A0-S0.y)*(A1+A2*x^A3)
+Initial guesses:
+	a0 = 5.01346
+	a1 = -0.000148483
+	a2 = -9.73378e-05
+	a3 = 0.414294
+Tolerance = 0.01
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 5.01342
+	a1 = -0.000148483
+	a2 = -9.73376e-05
+	a3 = 0.414294
+
+Chi-square: 0.0406806
+Correlation coefficient: 0.998270
+RMS relative error: 0.0107141
+Theil U coefficent: 0.00985365
+Fitting with formula: y = 1000*(A0-S0.y)*(A1+A2*x^A3)
+Initial guesses:
+	a0 = 1
+	a1 = 1
+	a2 = 1
+	a3 = 0.414294
+Tolerance = 0.01
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 5.0134
+	a1 = -0.000148483
+	a2 = -9.73374e-05
+	a3 = 0.414294
+
+Chi-square: 0.0406806
+Correlation coefficient: 0.998270
+RMS relative error: 0.0107141
+Theil U coefficent: 0.00985365
+Fitting with formula: y = 1000*(A0-S0.y)*(A1+A2*x^A3)
+Initial guesses:
+	a0 = 5.0134
+	a1 = -0.000148483
+	a2 = -9.73374e-05
+	a3 = 0.414294
+Tolerance = 0.01
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 5.01346
+	a1 = -0.000148483
+	a2 = -9.73378e-05
+	a3 = 0.414294
+
+Chi-square: 0.0406806
+Correlation coefficient: 0.998270
+RMS relative error: 0.0107141
+Theil U coefficent: 0.00985365
+Fitting with formula: y = 1000*(A0-S0.y)*(A1+A2*x^A3)
+Initial guesses:
+	a0 = 5.01346
+	a1 = -0.000148483
+	a2 = -9.73378e-05
+	a3 = 0.414294
+Tolerance = 0.01
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 5.01342
+	a1 = -0.000148483
+	a2 = -9.73376e-05
+	a3 = 0.414294
+
+Chi-square: 0.0406806
+Correlation coefficient: 0.998270
+RMS relative error: 0.0107141
+Theil U coefficent: 0.00985365
+Fitting with formula: y = 1000*(A0-S0.y)*(A1+A2*x^A3)
+Initial guesses:
+	a0 = 5.01342
+	a1 = -0.000148483
+	a2 = -9.73376e-05
+	a3 = 0.414294
+Tolerance = 0.01
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 5.01337
+	a1 = -0.000148482
+	a2 = -9.73373e-05
+	a3 = 0.414294
+
+Chi-square: 0.0406806
+Correlation coefficient: 0.998270
+RMS relative error: 0.0107141
+Theil U coefficent: 0.00985365
+Fitting with formula: y = 1000*(A0-S0.y)*(A1+A2*x^A3)
+Initial guesses:
+	a0 = 5.01337
+	a1 = -0.000148482
+	a2 = -9.73373e-05
+	a3 = 0.414294
+Tolerance = 0.01
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 5.01346
+	a1 = -0.000148483
+	a2 = -9.73378e-05
+	a3 = 0.414294
+
+Chi-square: 0.0406806
+Correlation coefficient: 0.998270
+RMS relative error: 0.0107141
+Theil U coefficent: 0.00985365
+Fitting with formula: y = 1000*(A0-S0.y)*(A1+A2*x^A3)
+Initial guesses:
+	a0 = 5.01346
+	a1 = -0.000148483
+	a2 = -9.73378e-05
+	a3 = 0.414294
+Tolerance = 0.01
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 5.01342
+	a1 = -0.000148483
+	a2 = -9.73376e-05
+	a3 = 0.414294
+
+Chi-square: 0.0406806
+Correlation coefficient: 0.998270
+RMS relative error: 0.0107141
+Theil U coefficent: 0.00985365
+Fitting with formula: y = 1000*(A0-S0.y)*(A1+A2*x^A3)
+Initial guesses:
+	a0 = 5.01342
+	a1 = -0.000148483
+	a2 = -9.73376e-05
+	a3 = 0.414294
+Tolerance = 0.01
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 5.01337
+	a1 = -0.000148482
+	a2 = -9.73373e-05
+	a3 = 0.414294
+
+Chi-square: 0.0406806
+Correlation coefficient: 0.998270
+RMS relative error: 0.0107141
+Theil U coefficent: 0.00985365
+Fitting with formula: y = 1000*(A0-S0.y)*(A1+A2*x^A3)
+Initial guesses:
+	a0 = 5.01337
+	a1 = -0.000148482
+	a2 = -9.73373e-05
+	a3 = 0.414294
+Tolerance = 0.01
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 5.01346
+	a1 = -0.000148483
+	a2 = -9.73378e-05
+	a3 = 0.414294
+
+Chi-square: 0.0406806
+Correlation coefficient: 0.998270
+RMS relative error: 0.0107141
+Theil U coefficent: 0.00985365
+Fitting with formula: y = 1000*(A0-S0.y)*(A1+A2*x^A3)
+Initial guesses:
+	a0 = 5.01346
+	a1 = -0.000148483
+	a2 = -9.73378e-05
+	a3 = 0.414294
+Tolerance = 0.01
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 5.01342
+	a1 = -0.000148483
+	a2 = -9.73376e-05
+	a3 = 0.414294
+
+Chi-square: 0.0406806
+Correlation coefficient: 0.998270
+RMS relative error: 0.0107141
+Theil U coefficent: 0.00985365
+Fitting with formula: y = 1000*(A0-S0.y)*(A1+A2*x^A3)
+Initial guesses:
+	a0 = 5.01342
+	a1 = -0.000148483
+	a2 = -9.73376e-05
+	a3 = 0.414294
+Tolerance = 0.01
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 5.01337
+	a1 = -0.000148482
+	a2 = -9.73373e-05
+	a3 = 0.414294
+
+Chi-square: 0.0406806
+Correlation coefficient: 0.998270
+RMS relative error: 0.0107141
+Theil U coefficent: 0.00985365
+Fitting with formula: y = 1000*(A0-S0.y)*(A1+A2*x^A3)
+Initial guesses:
+	a0 = 5.01337
+	a1 = -0.000148482
+	a2 = -9.73373e-05
+	a3 = 0.414294
+Tolerance = 0.01
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 5.01346
+	a1 = -0.000148483
+	a2 = -9.73378e-05
+	a3 = 0.414294
+
+Chi-square: 0.0406806
+Correlation coefficient: 0.998270
+RMS relative error: 0.0107141
+Theil U coefficent: 0.00985365
+Fitting with formula: y = 1000*(A0-S0.y)*(A1+A2*x^A3)
+Initial guesses:
+	a0 = 5.01346
+	a1 = -0.000148483
+	a2 = -9.73378e-05
+	a3 = 0.414294
+Tolerance = 0.01
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 5.01342
+	a1 = -0.000148483
+	a2 = -9.73376e-05
+	a3 = 0.414294
+
+Chi-square: 0.0406806
+Correlation coefficient: 0.998270
+RMS relative error: 0.0107141
+Theil U coefficent: 0.00985365
+Fitting with formula: y = 1000*(A0-S0.y)*(A1+A2*x^A3)
+Initial guesses:
+	a0 = 5.01342
+	a1 = -0.000148483
+	a2 = -9.73376e-05
+	a3 = 0.414294
+Tolerance = 0.01
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 5.01337
+	a1 = -0.000148482
+	a2 = -9.73373e-05
+	a3 = 0.414294
+
+Chi-square: 0.0406806
+Correlation coefficient: 0.998270
+RMS relative error: 0.0107141
+Theil U coefficent: 0.00985365
+Fitting with formula: y = 1000*(A0-S0.y)*(A1+A2*x^A3)
+Initial guesses:
+	a0 = 5.01337
+	a1 = -0.000148482
+	a2 = -9.73373e-05
+	a3 = 0.414294
+Tolerance = 0.01
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 5.01346
+	a1 = -0.000148483
+	a2 = -9.73378e-05
+	a3 = 0.414294
+
+Chi-square: 0.0406806
+Correlation coefficient: 0.998270
+RMS relative error: 0.0107141
+Theil U coefficent: 0.00985365
+Fitting with formula: y = 1000*(A0-S0.y)*(A1+A2*x^A3)
+Initial guesses:
+	a0 = 5.01346
+	a1 = -0.000148483
+	a2 = -9.73378e-05
+	a3 = 0.414294
+Tolerance = 0.01
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 5.01342
+	a1 = -0.000148483
+	a2 = -9.73376e-05
+	a3 = 0.414294
+
+Chi-square: 0.0406806
+Correlation coefficient: 0.998270
+RMS relative error: 0.0107141
+Theil U coefficent: 0.00985365
+Fitting with formula: y = 1000*(A0-S0.y)*(A1+A2*x^A3)
+Initial guesses:
+	a0 = 1
+	a1 = 1
+	a2 = 1
+	a3 = 1
+Tolerance = 0.01
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 50.9228
+	a1 = 0.000109765
+	a2 = 6.74816e-05
+	a3 = 0.419399
+
+Chi-square: 0.0697104
+Correlation coefficient: 0.997034
+RMS relative error: 0.0140754
+Theil U coefficent: 0.0128989
+Fitting with formula: y = 1000*(A0-S0.y)*(A1+A2*x^A3)
+Initial guesses:
+	a0 = 50.9228
+	a1 = 0.000109765
+	a2 = 6.74816e-05
+	a3 = 0.419399
+Tolerance = 0.01
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 51.5632
+	a1 = 0.00010713
+	a2 = 6.59023e-05
+	a3 = 0.419331
+
+Chi-square: 0.0692544
+Correlation coefficient: 0.997058
+RMS relative error: 0.014021
+Theil U coefficent: 0.0128566
+Fitting with formula: y = 1000*(A0-S0.y)*(A1+A2*x^A3)
+Initial guesses:
+	a0 = 51.5632
+	a1 = 0.00010713
+	a2 = 6.59023e-05
+	a3 = 0.419331
+Tolerance = 0.01
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 52.6797
+	a1 = 0.000102915
+	a2 = 6.33754e-05
+	a3 = 0.419245
+
+Chi-square: 0.0682299
+Correlation coefficient: 0.997097
+RMS relative error: 0.0139284
+Theil U coefficent: 0.0127612
+Fitting with formula: y = 1000*(A0-S0.y)*(A1+A2*x^A3)
+Initial guesses:
+	a0 = 52.6797
+	a1 = 0.000102915
+	a2 = 6.33754e-05
+	a3 = 0.419245
+Tolerance = 0.01
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 53.3885
+	a1 = 0.00010035
+	a2 = 6.18362e-05
+	a3 = 0.419187
+
+Chi-square: 0.0678216
+Correlation coefficient: 0.997120
+RMS relative error: 0.0138768
+Theil U coefficent: 0.0127229
+Fitting with formula: y = 1000*(A0-S0.y)*(A1+A2*x^A3)
+Initial guesses:
+	a0 = 53.3885
+	a1 = 0.00010035
+	a2 = 6.18362e-05
+	a3 = 0.419187
+Tolerance = 0.01
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 54.8406
+	a1 = 9.55487e-05
+	a2 = 5.89484e-05
+	a3 = 0.419086
+
+Chi-square: 0.0667808
+Correlation coefficient: 0.997163
+RMS relative error: 0.0137742
+Theil U coefficent: 0.0126249
+Fitting with formula: y = 1000*(A0-S0.y)*(A1+A2*x^A3)
+Initial guesses:
+	a0 = 54.8406
+	a1 = 9.55487e-05
+	a2 = 5.89484e-05
+	a3 = 0.419086
+Tolerance = 0.01
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 55.6412
+	a1 = 9.30789e-05
+	a2 = 5.74603e-05
+	a3 = 0.419032
+
+Chi-square: 0.0663314
+Correlation coefficient: 0.997185
+RMS relative error: 0.0137249
+Theil U coefficent: 0.0125824
+Fitting with formula: y = 1000*(A0-S0.y)*(A1+A2*x^A3)
+Initial guesses:
+	a0 = 55.6412
+	a1 = 9.30789e-05
+	a2 = 5.74603e-05
+	a3 = 0.419032
+Tolerance = 0.01
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 57.2779
+	a1 = 8.84333e-05
+	a2 = 5.46557e-05
+	a3 = 0.418935
+
+Chi-square: 0.065344
+Correlation coefficient: 0.997226
+RMS relative error: 0.0136267
+Theil U coefficent: 0.0124884
+Fitting with formula: y = 1000*(A0-S0.y)*(A1+A2*x^A3)
+Initial guesses:
+	a0 = 57.2779
+	a1 = 8.84333e-05
+	a2 = 5.46557e-05
+	a3 = 0.418935
+Tolerance = 0.01
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 58.1848
+	a1 = 8.60384e-05
+	a2 = 5.32076e-05
+	a3 = 0.418883
+
+Chi-square: 0.0649395
+Correlation coefficient: 0.997246
+RMS relative error: 0.0135808
+Theil U coefficent: 0.0124497
+Fitting with formula: y = 1000*(A0-S0.y)*(A1+A2*x^A3)
+Initial guesses:
+	a0 = 58.1848
+	a1 = 8.60384e-05
+	a2 = 5.32076e-05
+	a3 = 0.418883
+Tolerance = 0.01
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 61.0079
+	a1 = 7.93821e-05
+	a2 = 4.9173e-05
+	a3 = 0.418744
+
+Chi-square: 0.0636053
+Correlation coefficient: 0.997302
+RMS relative error: 0.0134442
+Theil U coefficent: 0.0123211
+Fitting with formula: y = 1000*(A0-S0.y)*(A1+A2*x^A3)
+Initial guesses:
+	a0 = 61.0079
+	a1 = 7.93821e-05
+	a2 = 4.9173e-05
+	a3 = 0.418744
+Tolerance = 0.01
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 64.2274
+	a1 = 7.29391e-05
+	a2 = 4.52546e-05
+	a3 = 0.418609
+
+Chi-square: 0.0624109
+Correlation coefficient: 0.997355
+RMS relative error: 0.0133171
+Theil U coefficent: 0.0122049
+Fitting with formula: y = 1000*(A0-S0.y)*(A1+A2*x^A3)
+Initial guesses:
+	a0 = 64.2274
+	a1 = 7.29391e-05
+	a2 = 4.52546e-05
+	a3 = 0.418609
+Tolerance = 0.01
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 70.4332
+	a1 = 6.30772e-05
+	a2 = 3.92323e-05
+	a3 = 0.418404
+
+Chi-square: 0.0605906
+Correlation coefficient: 0.997433
+RMS relative error: 0.0131241
+Theil U coefficent: 0.0120256
+Fitting with formula: y = 1000*(A0-S0.y)*(A1+A2*x^A3)
+Initial guesses:
+	a0 = 70.4332
+	a1 = 6.30772e-05
+	a2 = 3.92323e-05
+	a3 = 0.418404
+Tolerance = 0.01
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 74.2505
+	a1 = 5.82291e-05
+	a2 = 3.62608e-05
+	a3 = 0.418303
+
+Chi-square: 0.0597832
+Correlation coefficient: 0.997470
+RMS relative error: 0.0130345
+Theil U coefficent: 0.0119452
+Fitting with formula: y = 1000*(A0-S0.y)*(A1+A2*x^A3)
+Initial guesses:
+	a0 = 74.2505
+	a1 = 5.82291e-05
+	a2 = 3.62608e-05
+	a3 = 0.418303
+Tolerance = 0.01
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 76.9513
+	a1 = 5.52647e-05
+	a2 = 3.44396e-05
+	a3 = 0.418244
+
+Chi-square: 0.059029
+Correlation coefficient: 0.997506
+RMS relative error: 0.0129496
+Theil U coefficent: 0.0118696
+Fitting with formula: y = 1000*(A0-S0.y)*(A1+A2*x^A3)
+Initial guesses:
+	a0 = 76.9513
+	a1 = 5.52647e-05
+	a2 = 3.44396e-05
+	a3 = 0.418244
+Tolerance = 0.01
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 76.9513
+	a1 = 5.52647e-05
+	a2 = 3.44396e-05
+	a3 = 0.418244
+
+Chi-square: 0.0593849
+Correlation coefficient: 0.997508
+RMS relative error: 0.0129713
+Theil U coefficent: 0.0119053
+Fitting with formula: y = 1000*(A0-S0.y)*(A1+A2*x^A3)
+Initial guesses:
+	a0 = 76.9513
+	a1 = 5.52647e-05
+	a2 = 3.44396e-05
+	a3 = 0.418244
+Tolerance = 0.01
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 76.9513
+	a1 = 5.52647e-05
+	a2 = 3.44396e-05
+	a3 = 0.418244
+
+Chi-square: 0.0593849
+Correlation coefficient: 0.997508
+RMS relative error: 0.0129713
+Theil U coefficent: 0.0119053
+Fitting with formula: y = 1000*(A0-S0.y)*(A1+A2*x^A3)
+Initial guesses:
+	a0 = 76.9513
+	a1 = 5.52647e-05
+	a2 = 3.44396e-05
+	a3 = 0.418244
+Tolerance = 0.01
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 76.9513
+	a1 = 5.52647e-05
+	a2 = 3.44396e-05
+	a3 = 0.418244
+
+Chi-square: 0.0593849
+Correlation coefficient: 0.997508
+RMS relative error: 0.0129713
+Theil U coefficent: 0.0119053
+Fitting with formula: y = 1000*(A0-S0.y)*(A1+A2*x^A3)
+Initial guesses:
+	a0 = 76.9513
+	a1 = 5.52647e-05
+	a2 = 3.44396e-05
+	a3 = 0.418244
+Tolerance = 0.01
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 76.9513
+	a1 = 5.52647e-05
+	a2 = 3.44396e-05
+	a3 = 0.418244
+
+Chi-square: 0.0593849
+Correlation coefficient: 0.997508
+RMS relative error: 0.0129713
+Theil U coefficent: 0.0119053
+Fitting with formula: y = 1000*(A0-S0.y)*(A1+A2*x^A3)
+Initial guesses:
+	a0 = 76.9513
+	a1 = 5.52647e-05
+	a2 = 3.44396e-05
+	a3 = 0.418244
+Tolerance = 0.01
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 76.9513
+	a1 = 5.52647e-05
+	a2 = 3.44396e-05
+	a3 = 0.418244
+
+Chi-square: 0.0593849
+Correlation coefficient: 0.997508
+RMS relative error: 0.0129713
+Theil U coefficent: 0.0119053
+Fitting with formula: y = 1000*(A0-S0.y)*(A1+A2*x^A3)
+Initial guesses:
+	a0 = 76.9513
+	a1 = 5.52647e-05
+	a2 = 3.44396e-05
+	a3 = 0.418244
+Tolerance = 0.01
+Relative error in the sum of squares is at most tol.
+Computed values:
+	a0 = 76.9513
+	a1 = 5.52647e-05
+	a2 = 3.44396e-05
+	a3 = 0.418244
+
+Chi-square: 0.0593849
+Correlation coefficient: 0.997508
+RMS relative error: 0.0129713
+Theil U coefficent: 0.0119053
