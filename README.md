@@ -7,7 +7,7 @@ The fitting folder contains the Jupyter notebooks used for the calibration and e
 
 ### Software environment & dependencies 
 The code has to be run in a Linux environment or WSL.
-Required Python packages are listed in the `requirements.txt` file. In addition, you need to install [xmgrace](https://plasma-gate.weizmann.ac.il/Grace/), which can be used here as an alternative to limit for the curve fitting.
+Required Python packages are listed in the `requirements.txt` file. In addition, you need to install [xmgrace](https://plasma-gate.weizmann.ac.il/Grace/), which can be used here as an alternative to lmfit for the curve fitting.
 
 ## 📁 embedded_code
 This folder contains the Python code executed by MicroPython (V1.19.1) on our ESP32 board.
