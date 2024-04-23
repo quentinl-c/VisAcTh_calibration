@@ -3,7 +3,7 @@
 
 
 ## 📁 fitting
-The fitting folder contains the Jupyter notebooks used for the calibration and evaluation of our sensor in real conditions. The data for the calibration and the ones captured during the testing experiments are provided in the data folder.
+The `fitting` folder contains the Jupyter notebooks used for the calibration and evaluation of our sensor in real conditions. The data for the calibration and the ones captured during the testing experiments are provided in the data folder.
 
 ### Software environment & dependencies 
 The code has to be run in a Linux environment or WSL.
