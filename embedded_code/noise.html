@@ -1,0 +1,114 @@
+<html>
+<head>
+    <meta charset="UTF-8">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <title>Mesures</title>
+</head>
+<body>
+    <div style="width: 800px;"><canvas id="acquisitions"></canvas></div>
+    <label for="interval-select">Choisir l'intervalle (en secondes):</label>
+    <select id="interval-select">
+        <option value="1">1 seconde</option>
+        <option value="5">5 secondes</option>
+        <option value="10">10 secondes</option>
+        <option value="30">30 secondes</option>
+        <option value="60">60 secondes</option>
+    </select>
+    <button id="generateCSV">Générer le CSV</button>
+    <button id="reset">Reset</button>
+    <script>
+        const data = {
+            labels: [],
+            datasets: [{
+                label: 'Mean Rad Temperature over time (ms)',
+                data: [],
+                fill: false,
+                borderColor: 'rgb(75, 192, 192)',
+                tension: 0.1
+            }]
+        };    
+        
+        const config = {
+            type: 'line',
+            data: data,
+        };
+        
+        const myChart = new Chart(
+        document.getElementById('acquisitions'),
+        config
+        );
+        let startTime = Date.now();
+        const apiURL = 'http://' + window.location.host + '/api/measures'; 
+        let interval = 1000; // Intervalle par défaut en millisecondes (5 secondes)
+        
+        const intervalSelect = document.getElementById('interval-select');
+       
+        async function fetchData() {
+            try {
+                const response = await fetch(apiURL);
+                const data = await response.json();
+                const dataChart = myChart.data;
+                
+                dataChart.labels.push(Date.now() - startTime);
+                
+                dataChart.datasets[0].data.push(data["meanRadTempPin"]);
+                
+                
+                myChart.update();
+            } catch (error) {
+                console.error('Erreur lors de la récupération des données de l\'API:', error);
+            }
+        }
+        
+        
+        // Fonction pour démarrer l'intervalle
+        function startInterval() {
+            fetchData(); // Appeler fetchData immédiatement
+            return setInterval(fetchData, interval);
+        }
+
+        function resetData() {
+            const dataChart = myChart.data;
+            dataChart.labels = []
+            dataChart.datasets[0].data = []
+            Date.now()
+            myChart.update();
+        }
+
+        function generateCSV() {
+            const dataChart = myChart.data;
+            const data = [];
+            for (let i = 0; i < dataChart.labels.length; i++) {
+                data.push({ key: dataChart.labels[i], value: dataChart.datasets[0].data[i] });
+            }
+ 
+
+            const csvContent = "time,MeanRadT\n" + data.map(item => `${item.key},${item.value}`).join("\n");
+            const blob = new Blob([csvContent], { type: "text/csv" });
+            const url = URL.createObjectURL(blob);
+            const a = document.createElement("a");
+            a.setAttribute("href", url);
+            a.setAttribute("download", "donnees.csv");
+            document.body.appendChild(a);
+            a.click();
+            document.body.removeChild(a);
+        }
+        
+        // Écouter les changements de sélection dans le menu déroulant
+        intervalSelect.addEventListener('change', (event) => {
+            clearInterval(intervalId);
+            interval = parseInt(event.target.value) * 1000;
+            resetData()
+            intervalId = startInterval(); 
+            
+        });
+        const generateButton = document.getElementById('generateCSV');
+        generateButton.addEventListener('click', generateCSV);
+
+        const resetButton = document.getElementById('reset');
+        resetButton.addEventListener('click', resetData);
+
+        let intervalId = startInterval();
+    </script>
+</body>
+</html>
