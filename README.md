@@ -13,7 +13,8 @@ Required Python packages are listed in the `requirements.txt` file. In addition,
 ## 📁 embedded_code
 This folder contains the Python code executed by MicroPython (V1.19.1) on the ESP32 board.
 
-⚠️ This code is not intended to be run on production or sensitive applications.
+ > [!CAUTION]
+ > This code is not intended to be run on production or sensitive applications.
 
 ## 🗒️ Datasheets and technical references
 
@@ -31,3 +32,12 @@ To complement the technical information provided in the previous datasheets, ple
 * [Si7021 humidity and temperature sensor (links to schematic and code in document section)](https://www.sparkfun.com/products/13763)
 * [Wind Sensor Rev. C (technical and commercial page)](https://moderndevice.com/products/wind-sensor)
 * [uPesy ESP32 Wroom Low Power DevKit v1.2 (wiki)](https://www.upesy.fr/blogs/tutorials/upesy-esp32-wroom-low-power-devkit-board-documentation-version-latest?shpxid=381d4974-6bc8-4380-b842-925b6b18ada5)
+
+## 3D models & Vector drawing files
+
+3D models and drawing files in the `fabrication` folder are available to replicate the sensor box and all necessary materials to calibrate the sensors:
+* [VisAcTh sensor box](./fabrication/sensor_box/)
+* [MRT calibration box](./fabrication/MRT_calibration_box/)
+* [Noise calibration box](./fabrication/noise_sensor_calibration_box/)
+* [Wind tunnel calibration box](./fabrication/wind_tunnel/)
+
