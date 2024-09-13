@@ -33,9 +33,15 @@ To complement the technical information provided in the previous datasheets, ple
 * [Wind Sensor Rev. C (technical and commercial page)](https://moderndevice.com/products/wind-sensor)
 * [uPesy ESP32 Wroom Low Power DevKit v1.2 (wiki)](https://www.upesy.fr/blogs/tutorials/upesy-esp32-wroom-low-power-devkit-board-documentation-version-latest?shpxid=381d4974-6bc8-4380-b842-925b6b18ada5)
 
-## 3D models & Vector drawing files
+## 📊Dashboard proof of concept
 
-3D models and drawing files in the `fabrication` folder are available to replicate the sensor box and all necessary materials to calibrate the sensors:
+To showcase a potential application for the VisAcTh sensor, we have created a basic dashboard to monitor all collected physical parameters.
+The dashboard interface is developed with Grafana and requests data at regular intervals to an HTTP server acting as a proxy between the dashboard and the VisAcTh sensor. The `dashboard_poc` folder contains all sources and dependencies of the PoC.
+
+
+## 🛠️3D models & Vector drawing files
+
+3D models and drawing files are available in the `fabrication` folder to replicate the sensor box and all necessary materials to calibrate the sensors:
 * [VisAcTh sensor box](./fabrication/sensor_box/)
 * [MRT calibration box](./fabrication/MRT_calibration_box/)
 * [Noise calibration box](./fabrication/noise_sensor_calibration_box/)
