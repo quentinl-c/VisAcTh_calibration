@@ -50,7 +50,7 @@ def retrieve_data():
         tdb = float(data['tempSI7021'])
         rh = float(data['hum'])
         v = float(data["windSpeed"])
-        tr = float(r_json['trNat'])
+        tr = float(r_json['trFor'])
         pmv_score = pmv_thcomfort(tdb, rh, v, tr)
         if not math.isnan(pmv_score):
             data['pmv'] = pmv_score
