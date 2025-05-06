@@ -43,7 +43,7 @@ class NoiseSensor:
 
         for i in range(POINTS_NBR):
             timestamp[i] = time.ticks_us() - ref_time
-            mes[i] = self.AnalogDCRead()
+            mes[i] = self.AnalogDCRead()[1] * 3.3 /4095
 
         #p_to_p_amp = max((m[0] for m in mes)) - min((m[0] for m in mes))
         
