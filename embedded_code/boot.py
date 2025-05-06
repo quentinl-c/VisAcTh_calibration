@@ -25,7 +25,7 @@ from ModernDevice import ModernDevice_Sensor as ModernDevice
 gc.collect()
 
 # Set the configuration file
-conf_file = ConfReader("conf_exemple.json")
+conf_file = ConfReader("conf_example.json")
 
 ssid, password = conf_file.get_wifi_params()
 
