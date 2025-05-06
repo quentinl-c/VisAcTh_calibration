@@ -43,7 +43,7 @@ class NoiseSensor:
 
         for i in range(POINTS_NBR):
             timestamp[i] = time.ticks_us() - ref_time
-            mes[i] = self.AnalogDCRead()[1] * 3.3 /4095
+            mes[i] = self.AnalogDCRead()
 
         #p_to_p_amp = max((m[0] for m in mes)) - min((m[0] for m in mes))
         
@@ -61,7 +61,7 @@ class NoiseSensor:
         start_time = time.ticks_ms()
         while time.ticks_ms() - start_time < TIME_SAMPLING:
             i += 1
-            mes = self.AnalogRead()[0]
+            mes = self.AnalogRead()[1] * 3.3 /4095
             mes = math.fabs(mes - self.mean_volt)
             avg_amp = avg_amp + (mes - avg_amp) / (i+1) #running average
         p_to_p_amp = 2 * avg_amp
